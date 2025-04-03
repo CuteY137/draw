@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.3">
   <diagram name="第 1 页" id="_FeNyYrJ65TjTCXx1a1C">
-    <mxGraphModel>
+    <mxGraphModel dx="1217" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p2q3Rly1GwkyGb086g_a-1" value="+--------------------+       +---------------------+       +-----------------+       +-----------------+&#xa;|    前端 (Web/APP)  | &lt;---&gt; |  预订系统后端 (Java) | &lt;---&gt; | AI-Orchestrator | &lt;---&gt; |      Dify AI     |&#xa;+--------------------+       +---------------------+       +-----------------+       +-----------------+&#xa;       |                                                      |&#xa;       |------------------------------------------------------|&#xa;                         (缓存、日志、监控等)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="560" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
